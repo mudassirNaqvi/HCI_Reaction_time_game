@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  font-family: Arial;
+}
+
+#stimulus {
+  font-size: 60px;
+  margin: 20px;
+}
